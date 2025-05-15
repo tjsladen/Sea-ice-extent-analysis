@@ -1,6 +1,9 @@
 # Arctic and Antarctic Sea Ice Extent Analysis
 
 This project investigates historical trends and changes in sea ice extent across the Arctic and Antarctic using observational data and literature-based evidence. The report analyzes the structural, ecological, and climatic roles of sea ice and evaluates the effectiveness of current modelling approaches.
+
+Available to view here: [Sea ice extent report](https://github.com/tjsladen/Sea-ice-extent-analysis/blob/6cfb148eb38071713609da010e6df6dc1ace5719/mthm507CA2.pdf)
+
 📌 Project Summary
 
     Objective: Understand the temporal evolution and geographic variability of sea ice extent from 1979–2024.
@@ -61,4 +64,3 @@ This report was developed as part of my Master's in Environmental Intelligence a
 
     Scientific communication and reporting
 
-    Interdisciplinary research integration (physics, data science, environmental policy)
